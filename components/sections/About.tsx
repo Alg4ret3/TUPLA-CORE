@@ -52,7 +52,7 @@ const About = () => {
       role: "Full Stack Developer & AI Enthusiast",
       image: "/img/team/perfilsergio.webp",
       description:
-        "Experiencia en desarrollo de soluciones web y móviles con React, React Native y Node.js, dominando Python, JavaScript y SQL. Manejo bases de datos relacionales y no relacionales, y he participado en proyectos de machine learning, enfocado en crear aplicaciones eficientes, escalables y con una experiencia de usuario optimizada.",
+        "Experiencia en desarrollo de soluciones web y móviles con React, React Native y Node.js, dominando Python, JavaScript y SQL. Manejo bases de datos relacionales y no relacionales, con un enfoque en crear aplicaciones eficientes, escalables y con una experiencia de usuario optimizada.",
     },
     {
       name: "Michael Coral",
